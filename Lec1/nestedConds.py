@@ -1,3 +1,4 @@
+x = 2
 if x%2 == 0:
     if x%3 == 0:
         print('Divisible by 2 and 3')
